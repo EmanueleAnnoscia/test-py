@@ -1,0 +1,1 @@
+aperturaFile= open("C:\Users\ASUS\Desktop\Progetti futuri\allenamento e comprensione python\test-py\test python 2\prova.doc")
